@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  courceid: MyString
+  name: MyString
+  address: MyString
+  url: MyString
+  level: 1
+
+two:
+  courceid: MyString
+  name: MyString
+  address: MyString
+  url: MyString
+  level: 1
